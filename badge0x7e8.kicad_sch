@@ -2312,7 +2312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_RGB_PLCC-6"
+		(property "Footprint" "LED_SMD:LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
 			(at 182.372 101.6 0)
 			(effects
 				(font
@@ -2396,7 +2396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_RGB_PLCC-6"
+		(property "Footprint" "LED_SMD:LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
 			(at 145.542 63.5 0)
 			(effects
 				(font
@@ -2480,7 +2480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 143.002 87.63 90)
 			(effects
 				(font
@@ -2550,7 +2550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_RGB_PLCC-6"
+		(property "Footprint" "LED_SMD:LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
 			(at 145.542 101.6 0)
 			(effects
 				(font
@@ -2634,7 +2634,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 179.832 87.63 90)
 			(effects
 				(font
@@ -2774,7 +2774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 197.612 87.63 90)
 			(effects
 				(font
@@ -3062,7 +3062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 160.782 87.63 90)
 			(effects
 				(font
@@ -3132,7 +3132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_RGB_PLCC-6"
+		(property "Footprint" "LED_SMD:LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
 			(at 182.372 63.5 0)
 			(effects
 				(font
@@ -3216,7 +3216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 93.472 88.9 90)
 			(effects
 				(font
@@ -3286,7 +3286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 151.892 87.63 90)
 			(effects
 				(font
@@ -3356,7 +3356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 188.722 87.63 90)
 			(effects
 				(font
